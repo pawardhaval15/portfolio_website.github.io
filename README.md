@@ -2,7 +2,7 @@
 <p align="justify">This website displays my Projects, Web presence, My work, Knowledge, and contact information.</p>
 
 
-![Screenshot of Website]()
+![Screenshot of Website](https://github.com/pawardhaval15/portfolio_website.github.io/blob/main/src/webp/portfolio1.png)
 
 :star: Star me on GitHub — it helps!
 
