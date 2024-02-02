@@ -22,4 +22,4 @@
 * [<b>Animista</b>](https://animista.net/) - To use Interactive animations
 
 
-Please contact me at infovinodjangid@gmail.com if you have any feedback for the website. :star: Star it, if you like it!
+Please contact me at pawardhaval15@gmail.com if you have any feedback for the website. :star: Star it, if you like it!
