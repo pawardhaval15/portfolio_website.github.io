@@ -11,7 +11,8 @@
 ✔️ Mini intro\
 ✔️ About me \
 ✔️ Skills\
-✔️ Projects\
+✔️ Education & Experience\
+✔️ Projects & Work\
 ✔️ Contact me
 
 
